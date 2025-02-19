@@ -1,4 +1,3 @@
-## Hi there 👋
 ###  Hey 👋🏽, I'm [JasonZ](https://github.com/JasonZdmu) 
 
 ##  About :sunglasses:
@@ -6,7 +5,6 @@
 <p align="center">
   <img align="right" src="https://raw.githubusercontent.com/XTeam-Wing/XTeam-Wing/master/code.gif" width="300" height="300" />
 </p>
-
 
 
 
@@ -29,17 +27,9 @@
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
-<!--
-**JasonZdmu/JasonZdmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 开源项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+<br><br><br>
