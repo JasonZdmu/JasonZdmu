@@ -1,5 +1,5 @@
 ## Hi there 👋
-###  Hey 👋🏽, I'm [silkage](https://github.com/Pluto-123) 
+###  Hey 👋🏽, I'm [JasonZ](https://github.com/JasonZdmu) 
 
 ##  About :sunglasses:
 
@@ -10,22 +10,21 @@
 
 
 
-- 🌌 I am now a student of information security major in a university in Hebei Province
-- 🔭 I’m currently learning **Go**
-- 👯 I am looking forward to writing a perfect passive web vulnerability scanner
-- ✨ Pronouns: He/him
-- 🛸 Fun fact: I can code without coffee
-- 💬 QQ: MjY1Mjk5ODMxNA==
+- 🌌 I'm a passionate developer with a strong interest in software engineering.
+- 🔭 Currently, I'm diving deep into multiple programming languages like Java and Python, constantly exploring their advanced features and applications.
+- 👯 I'm eager to contribute to open-source projects and collaborate with other talented developers around the world to build innovative and useful software.
+- 🛸 Fun fact: I often get my best coding ideas while taking a walk outdoors.
+- 💬 email: zj_0321@dlmu.edu.cn
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Java | Python | C | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB |minio
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
